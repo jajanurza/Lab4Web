@@ -1,6 +1,11 @@
 # Lab4Web
+Nama : Jaja Nurjaman
+Nim : 311910083
+Kelas : TI.19.B1
+
+
 Langkah-langkah Praktikum 
-Persiapan membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
+membuat dokumen HTML dengan nama file lab4_box.html seperti berikut.
 
 ![image](https://user-images.githubusercontent.com/81528179/115144528-5276c580-a077-11eb-9e2e-df550903cfd1.png)
 
