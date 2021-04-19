@@ -68,6 +68,8 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 
 ![image](https://user-images.githubusercontent.com/81528179/115146452-c6699b80-a080-11eb-9c19-05c5c493ff8d.png)
 
+
+
 Mengatur Layout Main dan Sidebar 
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 
@@ -118,7 +120,25 @@ Lihat hasilnya dibrowser.
 
 ![image](https://user-images.githubusercontent.com/81528179/115146608-6a534700-a081-11eb-88ac-13bc0600d62c.png)
 
+Tugas
 
+1.Layout menu About Code pada about.html dan saya menggunakan css internal :
+
+
+![image](https://user-images.githubusercontent.com/81528179/115248588-0482c000-a152-11eb-9ad5-d7887d07da5e.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115248602-09e00a80-a152-11eb-938c-e35f4a4bbe5d.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115248646-12d0dc00-a152-11eb-89f8-c7737086684b.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115248674-18c6bd00-a152-11eb-90ad-ba05b8b9d6d9.png)
+
+Tampilan pada web:
+
+![image](https://user-images.githubusercontent.com/81528179/115248911-4f9cd300-a152-11eb-8dec-8d5cfe9034f7.png)
 
 
 
