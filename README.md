@@ -140,6 +140,24 @@ Tampilan pada web:
 
 ![image](https://user-images.githubusercontent.com/81528179/115248911-4f9cd300-a152-11eb-8dec-8d5cfe9034f7.png)
 
+2.Layout menu Kontak Code pada kontak.html dan saya menggunakan css internal 
+
+![image](https://user-images.githubusercontent.com/81528179/115254682-ca1c2180-a157-11eb-888d-a2461471492a.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115254718-d30cf300-a157-11eb-8ff3-c375065071f9.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115254761-dacc9780-a157-11eb-9feb-28f31d4d0522.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115254780-e1f3a580-a157-11eb-8b1b-c209c4638bb6.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115254808-e8821d00-a157-11eb-8bbc-578fd7eef665.png)
+
+
+![image](https://user-images.githubusercontent.com/81528179/115254924-05b6eb80-a158-11eb-9f49-3c8cbe591ff7.png)
 
 
 
